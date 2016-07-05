@@ -127,7 +127,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
                 <div class="ligne-question">
                     <div class="bloc-question">
                         <div class="titre-question">No. Appel</div>
@@ -142,6 +141,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
             <div class="formulaire">
                 <div class="ligne-section">Caracéristiques</div>
             </div>
